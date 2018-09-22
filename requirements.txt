@@ -21,7 +21,6 @@ enum34==1.1.6
 et-xmlfile==1.0.1
 file-magic==0.3.0
 funcsigs==1.0.2
-futures==3.2.0
 idna==2.6
 imagesize==1.0.0
 ipdb==0.11
