@@ -1,2 +1,6 @@
 Flask==0.11.1
 gunicorn==19.3.0
+requests
+difflib
+smtplib
+os

@@ -1,5 +1,4 @@
 from requests import get
-from pprint import pprint
 from difflib import unified_diff
 from smtplib import SMTP
 from os import environ
